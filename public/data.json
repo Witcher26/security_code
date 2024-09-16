@@ -1,0 +1,25 @@
+[
+    {
+      "id": "1",
+      "label": "Root",
+      "properties": {
+        "Name": "Root Node"
+      },
+      "children": [
+        {
+          "id": "2",
+          "label": "Child 1",
+          "properties": {
+            "Name": "Child Node 1"
+          }
+        },
+        {
+          "id": "3",
+          "label": "Child 2",
+          "properties": {
+            "Name": "Child Node 2"
+          }
+        }
+      ]
+    }
+]
